@@ -6,4 +6,4 @@ create a counter and write conditions that change the color based on positive or
 
 
 #### demo
-click [here]() to see demo
+click [here](https://almousaz.github.io/counter-repo/) to see demo
